@@ -1,4 +1,5 @@
-This repository contains my notebooks from the IBM Data Engineering Professional Cerificate Course 
+This repository contains my notebooks from the IBM Data Engineering Professional Cerificate Course.
+ 
 The aforementioned course is a 15-month course that provides a foundational understanding of data engineering
 
 <!---
