@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Osamu Nakai
 - 👀 I’m interested in all things data!
-- 🌱 I’m currently learning on Coursera 
+- 🌱 I’m currently learning all things data
 - 📫 How to reach me: samsamcav@gmail.com
 
 <!---
