@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Osamu Nakai
-- 👀 I’m interested in all things data!
-- 🌱 I’m currently learning all things data
-- 📫 How to reach me: samsamcav@gmail.com
+This repository contains my notebooks from the IBM Data Engineering Professional Cerificate Course 
+The aforementioned course is a 15-month course that provides a foundational understanding of data engineering
 
 <!---
 samsamcav2/samsamcav2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
